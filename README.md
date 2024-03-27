@@ -2,12 +2,12 @@ Built a Responsive Personal Portfolio Website using HTML,CSS and Javascript
 
 Technologies Used:
 
-HTML5 for semantic structure and content.
+1. HTML5 for semantic structure and content.
 
-CSS3 for styling, layout, and animations.
+2. CSS3 for styling, layout, and animations.
 
-JavaScript for interactive elements and form validation.
+3. JavaScript for interactive elements and form validation.
 
-Responsive design techniques with media queries.
+4. Responsive design techniques with media queries.
 
-Web hosting or deployment platforms.
+5. Web hosting or deployment platforms.
